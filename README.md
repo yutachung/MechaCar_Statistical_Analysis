@@ -10,12 +10,14 @@ is acceptable for the strength of correlation. If the range of the adjusted R-sq
 between 0.5 and 0.7, we would say that the model is able to predict the mpg effectively.
 However, if it were to be greater than 0.7, it would not predict the mpg effectively since
 the value does not make it to the threshold value of a strong correlation.
+![](Data_screenshots/MechaCar.jpg)
 
 ## Summary Statistics on Suspension Coils
      With the requirement that the variance of the suspension coils must not exceed 100 pounds
 per square inch, the current manufacturing design specification does not meet the requirements.
 However, Lot1 and Lot2 of the manufacturings lots do meet the requirements. It is Lot3 that
 does not meet the standard with a value of over 100 for its variance.
+![](Data_screenshots/Deliverable2.jpg)
 
 ## T-Tests on Suspension Coils
      We find that when determining if PSI across all manufacturing lots are statistically
@@ -23,7 +25,8 @@ similar from the population mean of 1500 pounds per square inch. Additional t-te
 performed to see if the PSI across different manufacturing lots were statistically similar
 from the poopulation mean of 1500 pounds per square inch as well. The yielded results were
 that lots 1 and 2 were statistically similar but lot 3 was not because of its p-value being
-lower than the assumed 0.05 significance level. 
+lower than the assumed 0.05 significance level.
+![](Data_screenshots/t_tests.jpg)
 
 ## MechaCar vs Competition
      A statistical study that could be done between MechaCar vs Competition that could be
